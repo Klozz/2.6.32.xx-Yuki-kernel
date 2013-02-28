@@ -5,7 +5,7 @@ TeamMEX :
 
 Initial port are from nAa this kernel include some new features to work on XPerience line of roms.
 And add some optimizations and new changes.
-
+Added support to wext wifi drivers by nAa 
 
 Linux kernel release 2.6.xx <http://kernel.org/>
 
